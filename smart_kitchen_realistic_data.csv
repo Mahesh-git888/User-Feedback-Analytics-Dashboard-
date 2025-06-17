@@ -1,0 +1,201 @@
+User ID,Session ID,Feature Used,Timestamp,Action Type,Feedback Text
+U041,S015,Meal Planning,2025-06-03 13:46:00,Modify Plan,The recipe suggestions were spot-on.
+U009,S095,Meal Planning,2025-06-12 12:15:30,Modify Plan,Feedback form didn't work and app lagged a lot.
+U006,S076,Grocery Ordering,2025-06-10 13:00:11,Add to Cart,The recipe suggestions were spot-on.
+U015,S065,Cook Coordination,2025-06-08 02:19:42,Book Cook,UI could use a little polishing.
+U027,S029,Grocery Ordering,2025-06-01 10:25:32,Remove Item,Fantastic experience with the cook coordination!
+U049,S021,Cook Coordination,2025-05-20 10:19:15,Confirm Booking,The recipe suggestions were spot-on.
+U014,S098,Grocery Ordering,2025-06-12 08:55:50,Add to Cart,Fantastic experience with the cook coordination!
+U023,S045,Cook Coordination,2025-05-26 05:48:26,Confirm Booking,Very buggy and frustrating to use.
+U035,S016,Grocery Ordering,2025-06-14 20:20:44,Add to Cart,UI could use a little polishing.
+U024,S074,Meal Planning,2025-06-12 13:02:12,Modify Plan,The recipe suggestions were spot-on.
+U050,S038,Meal Planning,2025-05-31 08:32:16,Search Recipe,Very buggy and frustrating to use.
+U018,S059,Cook Coordination,2025-06-09 13:19:31,Confirm Booking,Very smooth grocery ordering.
+U014,S086,Grocery Ordering,2025-06-10 08:44:32,Remove Item,The cook never showed up. Very bad experience.
+U039,S082,Meal Planning,2025-05-26 11:15:02,Modify Plan,Grocery order failed midway and app crashed.
+U030,S049,Grocery Ordering,2025-06-04 21:38:37,Remove Item,Expected a bit more customization.
+U044,S042,Meal Planning,2025-05-27 06:30:51,Search Recipe,Took forever to suggest a meal plan.
+U026,S035,Meal Planning,2025-06-07 01:23:15,Search Recipe,Feedback form didn't work and app lagged a lot.
+U046,S041,Meal Planning,2025-05-21 22:41:05,Modify Plan,"Average experience, got the job done."
+U010,S034,Meal Planning,2025-05-23 12:12:44,Search Recipe,Feedback form didn't work and app lagged a lot.
+U017,S096,Cook Coordination,2025-06-10 07:06:10,Confirm Booking,Very buggy and frustrating to use.
+U024,S029,Meal Planning,2025-05-21 09:43:59,Modify Plan,It was decent overall.
+U008,S020,Cook Coordination,2025-05-23 20:43:35,Book Cook,Very buggy and frustrating to use.
+U039,S009,Grocery Ordering,2025-06-16 04:21:08,Place Order,"Average experience, got the job done."
+U034,S033,Cook Coordination,2025-06-15 02:55:05,Book Cook,It was decent overall.
+U044,S069,Grocery Ordering,2025-05-19 11:52:16,Remove Item,Very smooth grocery ordering.
+U028,S021,Grocery Ordering,2025-05-28 16:31:12,Add to Cart,Took forever to suggest a meal plan.
+U033,S098,Meal Planning,2025-06-10 23:35:14,Modify Plan,Took forever to suggest a meal plan.
+U041,S065,Cook Coordination,2025-06-16 02:27:18,Book Cook,The recipe suggestions were spot-on.
+U035,S100,Cook Coordination,2025-06-10 18:59:24,Book Cook,"Average experience, got the job done."
+U002,S015,Grocery Ordering,2025-06-02 13:17:05,Place Order,The recipe suggestions were spot-on.
+U037,S011,Meal Planning,2025-05-19 06:32:21,Modify Plan,It was decent overall.
+U049,S069,Meal Planning,2025-06-06 15:10:12,Search Recipe,UI could use a little polishing.
+U011,S034,Cook Coordination,2025-05-19 17:05:03,Cancel Booking,Expected a bit more customization.
+U035,S097,Cook Coordination,2025-05-26 16:45:03,Cancel Booking,Very smooth grocery ordering.
+U026,S086,Cook Coordination,2025-06-08 17:38:56,Confirm Booking,UI could use a little polishing.
+U029,S016,Meal Planning,2025-05-21 21:22:10,Search Recipe,Fantastic experience with the cook coordination!
+U038,S071,Meal Planning,2025-06-03 01:42:21,Modify Plan,Fantastic experience with the cook coordination!
+U046,S081,Meal Planning,2025-05-21 09:03:47,Search Recipe,Fantastic experience with the cook coordination!
+U022,S010,Cook Coordination,2025-05-21 03:48:59,Book Cook,Loved how intuitive the meal planning was.
+U014,S070,Meal Planning,2025-05-27 12:24:39,Modify Plan,Feedback form didn't work and app lagged a lot.
+U037,S061,Meal Planning,2025-06-04 09:47:28,Save Plan,Grocery order failed midway and app crashed.
+U007,S013,Cook Coordination,2025-06-05 08:56:46,Confirm Booking,Loved how intuitive the meal planning was.
+U030,S094,Meal Planning,2025-05-30 18:31:33,Modify Plan,It was decent overall.
+U004,S052,Cook Coordination,2025-06-06 17:22:21,Confirm Booking,The cook never showed up. Very bad experience.
+U016,S025,Meal Planning,2025-06-06 10:30:17,Modify Plan,"Average experience, got the job done."
+U012,S036,Grocery Ordering,2025-06-14 05:10:47,Add to Cart,The cook never showed up. Very bad experience.
+U029,S071,Meal Planning,2025-06-07 14:25:33,Search Recipe,UI could use a little polishing.
+U001,S012,Meal Planning,2025-06-10 02:40:46,Search Recipe,"Average experience, got the job done."
+U014,S052,Meal Planning,2025-06-13 22:10:15,Search Recipe,Loved how intuitive the meal planning was.
+U017,S059,Grocery Ordering,2025-05-31 20:04:53,Place Order,UI could use a little polishing.
+U043,S092,Grocery Ordering,2025-06-06 18:51:56,Add to Cart,The recipe suggestions were spot-on.
+U004,S075,Cook Coordination,2025-05-23 05:01:48,Cancel Booking,Very smooth grocery ordering.
+U004,S007,Cook Coordination,2025-05-25 10:33:34,Confirm Booking,UI could use a little polishing.
+U011,S008,Cook Coordination,2025-06-14 23:19:37,Book Cook,The cook never showed up. Very bad experience.
+U039,S009,Cook Coordination,2025-06-08 04:33:12,Book Cook,UI could use a little polishing.
+U016,S075,Cook Coordination,2025-05-25 07:50:32,Book Cook,"Average experience, got the job done."
+U043,S075,Cook Coordination,2025-05-21 06:34:36,Cancel Booking,Very smooth grocery ordering.
+U014,S086,Cook Coordination,2025-05-24 22:36:32,Confirm Booking,Loved how intuitive the meal planning was.
+U009,S086,Cook Coordination,2025-05-28 12:57:43,Confirm Booking,It was decent overall.
+U001,S059,Cook Coordination,2025-06-02 21:34:10,Cancel Booking,The cook never showed up. Very bad experience.
+U035,S028,Cook Coordination,2025-06-17 08:34:37,Confirm Booking,Very smooth grocery ordering.
+U005,S032,Grocery Ordering,2025-05-30 22:25:27,Place Order,"Cook arrived right on time, great!"
+U046,S039,Cook Coordination,2025-05-29 14:42:32,Cancel Booking,UI could use a little polishing.
+U020,S085,Meal Planning,2025-06-11 15:43:55,Search Recipe,Fantastic experience with the cook coordination!
+U048,S071,Meal Planning,2025-06-13 06:12:19,Save Plan,The recipe suggestions were spot-on.
+U046,S044,Meal Planning,2025-05-25 19:15:00,Modify Plan,"Nothing extraordinary, but worked."
+U033,S063,Grocery Ordering,2025-05-29 07:10:06,Add to Cart,Loved how intuitive the meal planning was.
+U018,S006,Meal Planning,2025-06-17 06:05:48,Save Plan,Took forever to suggest a meal plan.
+U011,S095,Grocery Ordering,2025-06-02 02:47:17,Remove Item,Feedback form didn't work and app lagged a lot.
+U001,S015,Meal Planning,2025-06-15 08:18:32,Modify Plan,Feedback form didn't work and app lagged a lot.
+U003,S048,Cook Coordination,2025-05-31 03:32:45,Cancel Booking,The recipe suggestions were spot-on.
+U003,S040,Grocery Ordering,2025-05-18 18:24:26,Add to Cart,Grocery order failed midway and app crashed.
+U044,S032,Cook Coordination,2025-06-17 02:44:13,Book Cook,"Cook arrived right on time, great!"
+U027,S080,Cook Coordination,2025-06-12 08:42:12,Book Cook,Grocery order failed midway and app crashed.
+U011,S023,Grocery Ordering,2025-05-19 21:52:46,Add to Cart,Very smooth grocery ordering.
+U027,S086,Cook Coordination,2025-06-14 06:02:53,Book Cook,Fantastic experience with the cook coordination!
+U025,S005,Grocery Ordering,2025-05-31 10:27:24,Add to Cart,Loved how intuitive the meal planning was.
+U023,S040,Meal Planning,2025-05-27 18:38:23,Search Recipe,The recipe suggestions were spot-on.
+U026,S043,Grocery Ordering,2025-06-01 06:57:56,Add to Cart,Took forever to suggest a meal plan.
+U023,S083,Cook Coordination,2025-05-18 17:49:38,Confirm Booking,UI could use a little polishing.
+U022,S004,Meal Planning,2025-05-29 03:10:24,Save Plan,Very smooth grocery ordering.
+U003,S014,Cook Coordination,2025-05-22 15:39:08,Confirm Booking,Very smooth grocery ordering.
+U028,S078,Cook Coordination,2025-06-03 05:45:50,Book Cook,"Cook arrived right on time, great!"
+U013,S033,Meal Planning,2025-06-05 13:39:55,Modify Plan,UI could use a little polishing.
+U035,S088,Cook Coordination,2025-05-18 14:53:26,Cancel Booking,Grocery order failed midway and app crashed.
+U024,S056,Meal Planning,2025-06-14 19:33:44,Modify Plan,Feedback form didn't work and app lagged a lot.
+U021,S085,Meal Planning,2025-06-12 03:01:46,Modify Plan,Feedback form didn't work and app lagged a lot.
+U020,S086,Grocery Ordering,2025-05-25 07:28:11,Place Order,"Nothing extraordinary, but worked."
+U036,S017,Meal Planning,2025-05-31 17:59:15,Save Plan,"Average experience, got the job done."
+U044,S096,Meal Planning,2025-05-30 18:34:38,Modify Plan,"Average experience, got the job done."
+U036,S001,Grocery Ordering,2025-05-19 01:15:10,Place Order,"Cook arrived right on time, great!"
+U039,S084,Grocery Ordering,2025-05-21 22:47:53,Place Order,Expected a bit more customization.
+U033,S061,Cook Coordination,2025-06-09 21:54:04,Book Cook,"Nothing extraordinary, but worked."
+U033,S085,Cook Coordination,2025-06-12 09:10:52,Cancel Booking,The recipe suggestions were spot-on.
+U044,S040,Meal Planning,2025-05-31 21:06:28,Search Recipe,Fantastic experience with the cook coordination!
+U016,S061,Cook Coordination,2025-06-07 04:49:47,Book Cook,UI could use a little polishing.
+U013,S092,Cook Coordination,2025-06-07 07:07:19,Confirm Booking,Expected a bit more customization.
+U010,S084,Cook Coordination,2025-06-16 00:43:48,Book Cook,The cook never showed up. Very bad experience.
+U050,S055,Meal Planning,2025-05-22 18:55:15,Search Recipe,Feedback form didn't work and app lagged a lot.
+U030,S007,Cook Coordination,2025-06-06 19:58:49,Book Cook,The cook never showed up. Very bad experience.
+U030,S018,Grocery Ordering,2025-06-16 22:20:25,Remove Item,UI could use a little polishing.
+U039,S041,Grocery Ordering,2025-06-04 18:30:52,Remove Item,Feedback form didn't work and app lagged a lot.
+U028,S071,Grocery Ordering,2025-05-26 11:34:46,Add to Cart,Very buggy and frustrating to use.
+U029,S034,Meal Planning,2025-05-26 12:36:20,Modify Plan,"Cook arrived right on time, great!"
+U032,S081,Meal Planning,2025-05-31 18:35:50,Save Plan,"Nothing extraordinary, but worked."
+U016,S035,Grocery Ordering,2025-05-30 05:35:52,Place Order,The cook never showed up. Very bad experience.
+U009,S020,Meal Planning,2025-06-01 23:04:37,Save Plan,Expected a bit more customization.
+U005,S054,Grocery Ordering,2025-05-27 09:08:04,Place Order,"Average experience, got the job done."
+U004,S027,Grocery Ordering,2025-06-16 13:34:48,Place Order,Feedback form didn't work and app lagged a lot.
+U045,S003,Cook Coordination,2025-06-03 22:32:38,Confirm Booking,"Nothing extraordinary, but worked."
+U020,S097,Grocery Ordering,2025-05-26 03:05:33,Place Order,UI could use a little polishing.
+U039,S029,Grocery Ordering,2025-06-06 16:03:02,Add to Cart,Loved how intuitive the meal planning was.
+U002,S050,Grocery Ordering,2025-06-09 03:12:28,Remove Item,"Average experience, got the job done."
+U047,S022,Grocery Ordering,2025-06-13 12:00:57,Add to Cart,Feedback form didn't work and app lagged a lot.
+U002,S051,Cook Coordination,2025-06-14 10:20:18,Cancel Booking,It was decent overall.
+U042,S055,Meal Planning,2025-06-16 03:18:12,Save Plan,Very smooth grocery ordering.
+U025,S042,Meal Planning,2025-05-25 21:13:35,Save Plan,Loved how intuitive the meal planning was.
+U018,S097,Grocery Ordering,2025-06-16 13:12:39,Place Order,Very buggy and frustrating to use.
+U002,S096,Cook Coordination,2025-06-05 00:37:50,Book Cook,Took forever to suggest a meal plan.
+U015,S084,Meal Planning,2025-05-20 02:01:00,Modify Plan,Fantastic experience with the cook coordination!
+U016,S026,Meal Planning,2025-05-31 15:31:52,Modify Plan,The recipe suggestions were spot-on.
+U031,S086,Meal Planning,2025-06-16 18:46:37,Modify Plan,Very buggy and frustrating to use.
+U045,S033,Grocery Ordering,2025-06-05 18:37:49,Add to Cart,It was decent overall.
+U050,S021,Grocery Ordering,2025-06-13 20:32:37,Add to Cart,"Nothing extraordinary, but worked."
+U037,S087,Grocery Ordering,2025-06-12 21:29:41,Place Order,Grocery order failed midway and app crashed.
+U005,S076,Cook Coordination,2025-06-15 09:42:47,Cancel Booking,Very smooth grocery ordering.
+U044,S077,Meal Planning,2025-05-25 08:42:00,Modify Plan,Took forever to suggest a meal plan.
+U035,S055,Cook Coordination,2025-05-19 11:59:25,Confirm Booking,Very smooth grocery ordering.
+U001,S054,Grocery Ordering,2025-05-30 17:18:29,Add to Cart,"Nothing extraordinary, but worked."
+U041,S059,Cook Coordination,2025-06-07 08:59:22,Book Cook,UI could use a little polishing.
+U042,S035,Cook Coordination,2025-05-26 23:16:19,Cancel Booking,Very buggy and frustrating to use.
+U028,S094,Cook Coordination,2025-05-22 17:02:21,Confirm Booking,The recipe suggestions were spot-on.
+U006,S036,Grocery Ordering,2025-06-15 00:16:30,Add to Cart,Feedback form didn't work and app lagged a lot.
+U040,S086,Grocery Ordering,2025-05-29 23:39:28,Place Order,Very smooth grocery ordering.
+U012,S063,Meal Planning,2025-06-16 03:49:31,Save Plan,Took forever to suggest a meal plan.
+U018,S077,Cook Coordination,2025-06-12 03:35:49,Confirm Booking,UI could use a little polishing.
+U013,S011,Meal Planning,2025-05-24 19:42:40,Modify Plan,UI could use a little polishing.
+U049,S031,Cook Coordination,2025-05-28 02:34:19,Confirm Booking,"Average experience, got the job done."
+U029,S003,Meal Planning,2025-06-08 10:05:57,Save Plan,The recipe suggestions were spot-on.
+U020,S085,Cook Coordination,2025-05-29 17:59:11,Confirm Booking,UI could use a little polishing.
+U023,S055,Cook Coordination,2025-06-12 01:12:24,Cancel Booking,Loved how intuitive the meal planning was.
+U018,S040,Grocery Ordering,2025-05-28 20:15:59,Add to Cart,The recipe suggestions were spot-on.
+U021,S016,Cook Coordination,2025-06-14 21:49:32,Cancel Booking,Grocery order failed midway and app crashed.
+U013,S028,Cook Coordination,2025-06-04 21:38:24,Confirm Booking,"Cook arrived right on time, great!"
+U049,S068,Cook Coordination,2025-06-15 20:49:15,Confirm Booking,Grocery order failed midway and app crashed.
+U019,S030,Grocery Ordering,2025-06-14 16:38:17,Add to Cart,"Cook arrived right on time, great!"
+U009,S036,Meal Planning,2025-05-19 07:18:11,Search Recipe,Expected a bit more customization.
+U041,S097,Grocery Ordering,2025-05-19 23:13:21,Add to Cart,Feedback form didn't work and app lagged a lot.
+U019,S061,Grocery Ordering,2025-06-01 16:17:57,Place Order,Fantastic experience with the cook coordination!
+U017,S062,Meal Planning,2025-05-22 21:24:43,Search Recipe,It was decent overall.
+U037,S081,Cook Coordination,2025-05-24 13:24:49,Book Cook,"Cook arrived right on time, great!"
+U020,S011,Meal Planning,2025-06-11 20:07:06,Search Recipe,"Average experience, got the job done."
+U039,S077,Cook Coordination,2025-05-25 03:13:31,Book Cook,Very buggy and frustrating to use.
+U029,S057,Grocery Ordering,2025-06-04 08:53:01,Remove Item,Took forever to suggest a meal plan.
+U037,S080,Meal Planning,2025-05-19 14:20:56,Modify Plan,The cook never showed up. Very bad experience.
+U049,S027,Cook Coordination,2025-06-14 22:31:55,Book Cook,Fantastic experience with the cook coordination!
+U011,S031,Meal Planning,2025-05-26 23:04:36,Modify Plan,Fantastic experience with the cook coordination!
+U027,S058,Cook Coordination,2025-05-31 04:17:55,Cancel Booking,It was decent overall.
+U015,S037,Cook Coordination,2025-05-19 21:32:16,Confirm Booking,Very buggy and frustrating to use.
+U005,S088,Meal Planning,2025-05-19 01:05:25,Save Plan,Feedback form didn't work and app lagged a lot.
+U043,S026,Grocery Ordering,2025-06-17 00:25:57,Add to Cart,Expected a bit more customization.
+U018,S019,Meal Planning,2025-05-31 02:36:41,Search Recipe,Very smooth grocery ordering.
+U039,S096,Cook Coordination,2025-06-04 12:27:53,Confirm Booking,"Average experience, got the job done."
+U045,S039,Cook Coordination,2025-06-04 03:18:18,Confirm Booking,Feedback form didn't work and app lagged a lot.
+U035,S064,Grocery Ordering,2025-06-12 01:21:54,Add to Cart,"Average experience, got the job done."
+U048,S042,Cook Coordination,2025-06-07 03:50:47,Confirm Booking,The recipe suggestions were spot-on.
+U044,S074,Cook Coordination,2025-05-26 20:44:56,Book Cook,Took forever to suggest a meal plan.
+U037,S006,Meal Planning,2025-06-03 06:03:59,Save Plan,"Average experience, got the job done."
+U018,S024,Cook Coordination,2025-05-21 15:11:15,Confirm Booking,"Average experience, got the job done."
+U006,S061,Grocery Ordering,2025-06-04 04:55:50,Place Order,Fantastic experience with the cook coordination!
+U011,S043,Grocery Ordering,2025-06-08 00:05:12,Remove Item,"Average experience, got the job done."
+U049,S071,Meal Planning,2025-05-28 05:33:04,Save Plan,Very smooth grocery ordering.
+U021,S015,Grocery Ordering,2025-06-08 04:44:42,Remove Item,The cook never showed up. Very bad experience.
+U043,S070,Grocery Ordering,2025-06-12 06:03:17,Place Order,"Cook arrived right on time, great!"
+U024,S080,Grocery Ordering,2025-05-31 03:29:15,Remove Item,It was decent overall.
+U014,S035,Cook Coordination,2025-05-25 10:31:32,Book Cook,Very buggy and frustrating to use.
+U045,S063,Meal Planning,2025-06-13 14:59:50,Search Recipe,Feedback form didn't work and app lagged a lot.
+U016,S091,Meal Planning,2025-05-19 10:55:23,Save Plan,UI could use a little polishing.
+U027,S012,Meal Planning,2025-06-15 11:11:36,Search Recipe,It was decent overall.
+U042,S020,Grocery Ordering,2025-06-06 13:15:03,Remove Item,Very smooth grocery ordering.
+U027,S062,Grocery Ordering,2025-05-27 14:10:58,Add to Cart,Expected a bit more customization.
+U025,S025,Cook Coordination,2025-05-27 23:25:32,Cancel Booking,Grocery order failed midway and app crashed.
+U005,S036,Grocery Ordering,2025-05-28 18:04:48,Place Order,Feedback form didn't work and app lagged a lot.
+U018,S001,Grocery Ordering,2025-05-21 14:12:29,Remove Item,"Cook arrived right on time, great!"
+U038,S085,Grocery Ordering,2025-06-09 16:14:53,Add to Cart,"Average experience, got the job done."
+U023,S043,Cook Coordination,2025-06-12 12:25:34,Cancel Booking,Very smooth grocery ordering.
+U013,S090,Meal Planning,2025-05-20 05:44:31,Modify Plan,Loved how intuitive the meal planning was.
+U003,S041,Cook Coordination,2025-06-07 02:04:48,Confirm Booking,Very buggy and frustrating to use.
+U025,S085,Cook Coordination,2025-06-08 23:36:06,Book Cook,It was decent overall.
+U009,S065,Cook Coordination,2025-06-07 11:05:50,Confirm Booking,Very buggy and frustrating to use.
+U007,S068,Grocery Ordering,2025-05-20 02:27:09,Add to Cart,Very buggy and frustrating to use.
+U042,S020,Meal Planning,2025-05-19 03:33:35,Save Plan,Took forever to suggest a meal plan.
+U022,S080,Cook Coordination,2025-05-23 14:40:48,Confirm Booking,"Nothing extraordinary, but worked."
+U044,S069,Grocery Ordering,2025-06-07 07:25:21,Place Order,"Average experience, got the job done."
+U035,S005,Cook Coordination,2025-06-09 01:21:36,Book Cook,Very smooth grocery ordering.
+U015,S096,Meal Planning,2025-06-14 23:39:16,Save Plan,The cook never showed up. Very bad experience.
+U029,S022,Cook Coordination,2025-06-05 01:06:48,Confirm Booking,The cook never showed up. Very bad experience.
+U021,S008,Grocery Ordering,2025-05-25 01:30:45,Place Order,The recipe suggestions were spot-on.
+U016,S068,Grocery Ordering,2025-05-27 07:02:48,Remove Item,Expected a bit more customization.
+U011,S023,Meal Planning,2025-06-05 14:14:04,Modify Plan,Feedback form didn't work and app lagged a lot.
