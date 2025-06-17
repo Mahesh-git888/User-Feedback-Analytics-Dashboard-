@@ -1,6 +1,4 @@
-Sure! Here's the cleaned-up `.md` version of your README file content:
 
-```markdown
 #  Smart Kitchen Product Analytics Dashboard
 
 This is a data-driven dashboard built using **Streamlit** to analyze and visualize product feedback for a smart kitchen platform like **Kookar AI**. The dashboard provides valuable insights into feature usage, user feedback sentiment, and improvement recommendations based on natural language processing.
