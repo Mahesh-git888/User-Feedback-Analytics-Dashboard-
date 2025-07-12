@@ -1,42 +1,41 @@
 
-#  Smart Kitchen Product Analytics Dashboard
+# User Feedback Analytics Dashboard for Product Improvement
 
-This is a data-driven dashboard built using **Streamlit** to analyze and visualize product feedback for a smart kitchen platform like **Kookar AI**. The dashboard provides valuable insights into feature usage, user feedback sentiment, and improvement recommendations based on natural language processing.
+This is a data-driven dashboard built using **Streamlit** to analyze and visualize user feedback for any digital product. The dashboard provides actionable insights into feature usage, user sentiment trends, and improvement recommendations using natural language processing and clustering techniques.
 
 ---
 
 ##  Features
 
--  Interactive analytics of user feedback data  
--  Sentiment analysis using VADER  
--  Actionable recommendations based on negative feedback  
--  Visualizations of feature usage and sentiment trends  
--  Built with Streamlit for quick deployment and demo  
+- Upload your own CSV feedback data for instant analysis  
+- Sentiment classification using VADER  
+- Keyword extraction using TF-IDF  
+- Persona clustering using KMeans  
+- Feature prioritization via impact-effort matrix  
+- Trend charts and heatmaps for post-launch feedback tracking  
+- Downloadable CSV for top actionable recommendations  
 
 ---
 
 ##  File Structure
 
 ```
-
-smart-kitchen-product-analytics/
-├── app.py                          # Main dashboard app
-├── smart\_kitchen\_realistic\_data.csv  # Dummy product feedback data
+product-feedback-dashboard/
+├── app.py                         # Main Streamlit dashboard
+├── smart_kitchen_realistic_data.csv  # Sample product feedback dataset
 ├── requirements.txt               # Required Python packages
 └── README.md                      # Project documentation
-
-````
+```
 
 ---
-
 ##  How to Run Locally
 
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/smart-kitchen-product-analytics.git
-cd smart-kitchen-product-analytics
-````
+git clone https://github.com/YOUR_USERNAME/product-feedback-dashboard.git
+cd product-feedback-dashboard
+```
 
 ### 2. Install Dependencies
 
@@ -54,36 +53,34 @@ streamlit run app.py
 
 ---
 
-##  Deployment (Optional)
+##  Deployment
 
-You can deploy this app easily using [Streamlit Cloud](https://streamlit.io/cloud):
+Deploy your app on [Streamlit Cloud](https://streamlit.io/cloud):
 
-1. Push this project to your GitHub.
-2. Go to [https://streamlit.io/cloud](https://streamlit.io/cloud).
-3. Connect your GitHub account and select the repo.
-4. Set `app.py` as the main file and deploy!
+1. Push this repo to your GitHub.
+2. Go to [Streamlit Cloud](https://streamlit.io/cloud).
+3. Connect your GitHub and deploy the app using `app.py`.
 
 ---
 
 ##  Technologies Used
 
-* Python 
-* Streamlit 
-* Pandas 
-* VADER Sentiment Analysis 
-* Matplotlib & Seaborn for Visualization 
+- Python  
+- Streamlit  
+- Pandas & NumPy  
+- VADER (Sentiment Analysis)  
+- TF-IDF Vectorization  
+- KMeans Clustering  
+- Altair, Matplotlib & Seaborn (Visualization)
 
 ---
 
-##  Feedback
+## Feedback
 
-This dashboard is inspired by real-world product feedback workflows for AI startups like **Kookar AI**. For suggestions, feel free to open an issue or fork the repo.
+This dashboard is built to support product teams in data-driven decision-making. For feedback, feature requests, or suggestions, feel free to open an issue or fork the repository.
 
 ---
 
 ##  License
 
-MIT License. Use freely with attribution.
-
-```
-.
+MIT License — free to use with proper attribution.
