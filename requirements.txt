@@ -1,5 +1,8 @@
 streamlit
 pandas
-vaderSentiment
 matplotlib
 seaborn
+vaderSentiment
+scikit-learn
+altair
+numpy
